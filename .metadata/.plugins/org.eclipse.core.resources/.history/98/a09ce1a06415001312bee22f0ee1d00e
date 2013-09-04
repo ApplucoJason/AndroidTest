@@ -1,0 +1,34 @@
+package com.itea.myfirstapp;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.util.Log;
+import android.widget.Button;
+
+public class Second extends Activity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		
+		//why we need to do after super?
+		//just imagine we are building something
+		//we build the foundation (super) first
+		//then we write our own code base on this foundation
+		
+		Bundle mybundle  = getIntent().getExtras();
+		String st = mybundle.getString("MainID");
+		Log.v("MyFirstApp", st);
+		
+		Button bt = (Button) findViewById(R.id.button1);
+		bt.setText(st);
+		
+		this.setContentView(R.layout.second);
+		
+		
+		
+		
+	}
+
+}

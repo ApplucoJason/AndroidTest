@@ -442,3 +442,212 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.android.ide.eclipse.adt 4 0 2013-09-09 20:39:12.318
 !MESSAGE Failed to load properties file for project 'myfirstjni'
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2013-09-09 20:48:06.417
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2013-09-09 20:48:06.417
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10006 2013-09-09 20:48:06.417
+!MESSAGE "Eclipse EGit" is already present because other installed software requires it.  It will be added to the installed software list.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:06.417
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.417
+!MESSAGE Software being installed: EGit Project Set Support 2.1.0.201209190230-r (org.eclipse.egit.psf.feature.group 2.1.0.201209190230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.417
+!MESSAGE Software being installed: Eclipse EGit Mylyn GitHub Feature 2.2.0.201212191850-r (org.eclipse.mylyn.github.feature.feature.group 2.2.0.201212191850-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:06.417
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.417
+!MESSAGE Git Team Provider Core 2.0.0.201206130900-r (org.eclipse.egit.core 2.0.0.201206130900-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.417
+!MESSAGE Git Team Provider Core 2.2.0.201212191850-r (org.eclipse.egit.core 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.417
+!MESSAGE Git Team Provider Core 2.1.0.201209190230-r (org.eclipse.egit.core 2.1.0.201209190230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:06.417
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.417
+!MESSAGE From: EGit Project Set Support 2.1.0.201209190230-r (org.eclipse.egit.psf.feature.group 2.1.0.201209190230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.417
+!MESSAGE To: org.eclipse.egit.core [2.1.0,2.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:06.417
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.417
+!MESSAGE From: Eclipse EGit Mylyn GitHub Feature 2.2.0.201212191850-r (org.eclipse.mylyn.github.feature.feature.group 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.417
+!MESSAGE To: org.eclipse.mylyn.github.ui [2.2.0.201212191850-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:06.417
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.417
+!MESSAGE From: Mylyn GitHub Connector UI 2.2.0.201212191850-r (org.eclipse.mylyn.github.ui 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.418
+!MESSAGE To: package org.eclipse.egit.core [2.2.0,2.3.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2013-09-09 20:48:06.428
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2013-09-09 20:48:06.428
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10006 2013-09-09 20:48:06.428
+!MESSAGE "Eclipse EGit" is already present because other installed software requires it.  It will be added to the installed software list.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:06.428
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.428
+!MESSAGE Software being installed: EGit Project Set Support 2.1.0.201209190230-r (org.eclipse.egit.psf.feature.group 2.1.0.201209190230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.428
+!MESSAGE Software being installed: Eclipse EGit Mylyn GitHub Feature 2.2.0.201212191850-r (org.eclipse.mylyn.github.feature.feature.group 2.2.0.201212191850-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:06.428
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.428
+!MESSAGE Git Team Provider Core 2.0.0.201206130900-r (org.eclipse.egit.core 2.0.0.201206130900-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.428
+!MESSAGE Git Team Provider Core 2.2.0.201212191850-r (org.eclipse.egit.core 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.429
+!MESSAGE Git Team Provider Core 2.1.0.201209190230-r (org.eclipse.egit.core 2.1.0.201209190230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:06.429
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.429
+!MESSAGE From: EGit Project Set Support 2.1.0.201209190230-r (org.eclipse.egit.psf.feature.group 2.1.0.201209190230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.429
+!MESSAGE To: org.eclipse.egit.core [2.1.0,2.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:06.429
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.429
+!MESSAGE From: Eclipse EGit Mylyn GitHub Feature 2.2.0.201212191850-r (org.eclipse.mylyn.github.feature.feature.group 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.429
+!MESSAGE To: org.eclipse.mylyn.github.ui [2.2.0.201212191850-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:06.429
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.429
+!MESSAGE From: Mylyn GitHub Connector UI 2.2.0.201212191850-r (org.eclipse.mylyn.github.ui 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:06.429
+!MESSAGE To: package org.eclipse.egit.core [2.2.0,2.3.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2013-09-09 20:48:22.462
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:22.462
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.462
+!MESSAGE Software being installed: EGit Project Set Support 2.1.0.201209190230-r (org.eclipse.egit.psf.feature.group 2.1.0.201209190230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.462
+!MESSAGE Software being installed: Eclipse EGit Mylyn GitHub Feature 2.2.0.201212191850-r (org.eclipse.mylyn.github.feature.feature.group 2.2.0.201212191850-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:22.462
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.462
+!MESSAGE Git Team Provider Core 2.0.0.201206130900-r (org.eclipse.egit.core 2.0.0.201206130900-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.462
+!MESSAGE Git Team Provider Core 2.2.0.201212191850-r (org.eclipse.egit.core 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.462
+!MESSAGE Git Team Provider Core 2.1.0.201209190230-r (org.eclipse.egit.core 2.1.0.201209190230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:22.462
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.463
+!MESSAGE From: EGit Project Set Support 2.1.0.201209190230-r (org.eclipse.egit.psf.feature.group 2.1.0.201209190230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.463
+!MESSAGE To: org.eclipse.egit.core [2.1.0,2.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:22.463
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.463
+!MESSAGE From: Eclipse EGit Mylyn GitHub Feature 2.2.0.201212191850-r (org.eclipse.mylyn.github.feature.feature.group 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.463
+!MESSAGE To: org.eclipse.mylyn.github.ui [2.2.0.201212191850-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:22.463
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.463
+!MESSAGE From: Mylyn GitHub Connector UI 2.2.0.201212191850-r (org.eclipse.mylyn.github.ui 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.463
+!MESSAGE To: package org.eclipse.egit.core [2.2.0,2.3.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2013-09-09 20:48:22.465
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:22.465
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.465
+!MESSAGE Software being installed: EGit Project Set Support 2.1.0.201209190230-r (org.eclipse.egit.psf.feature.group 2.1.0.201209190230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.465
+!MESSAGE Software being installed: Eclipse EGit Mylyn GitHub Feature 2.2.0.201212191850-r (org.eclipse.mylyn.github.feature.feature.group 2.2.0.201212191850-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:22.465
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.465
+!MESSAGE Git Team Provider Core 2.0.0.201206130900-r (org.eclipse.egit.core 2.0.0.201206130900-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.466
+!MESSAGE Git Team Provider Core 2.2.0.201212191850-r (org.eclipse.egit.core 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.466
+!MESSAGE Git Team Provider Core 2.1.0.201209190230-r (org.eclipse.egit.core 2.1.0.201209190230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:22.466
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.466
+!MESSAGE From: EGit Project Set Support 2.1.0.201209190230-r (org.eclipse.egit.psf.feature.group 2.1.0.201209190230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.466
+!MESSAGE To: org.eclipse.egit.core [2.1.0,2.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:22.466
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.466
+!MESSAGE From: Eclipse EGit Mylyn GitHub Feature 2.2.0.201212191850-r (org.eclipse.mylyn.github.feature.feature.group 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.466
+!MESSAGE To: org.eclipse.mylyn.github.ui [2.2.0.201212191850-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2013-09-09 20:48:22.466
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.466
+!MESSAGE From: Mylyn GitHub Connector UI 2.2.0.201212191850-r (org.eclipse.mylyn.github.ui 2.2.0.201212191850-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2013-09-09 20:48:22.466
+!MESSAGE To: package org.eclipse.egit.core [2.2.0,2.3.0)
+!SESSION 2013-09-09 20:49:01.002 -----------------------------------------------
+eclipse.buildId=v22.0.1-685705
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-09-09 20:49:15.668
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-09-09 20:49:15.669
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\User'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2013-09-09 21:31:35.261
+!MESSAGE Indexed 'myfirstjni' (1 sources, 14 headers) in 0.11 sec: 24 declarations; 5 references; 14 unresolved inclusions; 2 syntax errors; 6 unresolved names (17.14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2013-09-09 21:44:19.080
+!MESSAGE Indexed 'myfirstjni' (1 sources, 81 headers) in 1.01 sec: 2,397 declarations; 2,008 references; 3 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.05%)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-09-09 21:48:13.476
+!MESSAGE Failed converting ECJ parse tree to Lombok for file C:\Users\User\Documents\GithubJason\AndroidTest\myfirstjni\src\com\itea\myfirstjni\MainActivity.java
+!STACK 0
+java.lang.NullPointerException: returnTypeReference is mandatory
+	at lombok.ast.MethodDeclaration.astReturnTypeReference(MethodDeclaration.java:75)
+	at lombok.ast.ecj.EcjTreeConverter$2.visitMethodDeclaration(EcjTreeConverter.java:1231)
+	at lombok.ast.ecj.EcjTreeVisitor.visitEcjNode(EcjTreeVisitor.java:152)
+	at lombok.ast.ecj.EcjTreeConverter.visit(EcjTreeConverter.java:290)
+	at lombok.ast.ecj.EcjTreeConverter.toTree(EcjTreeConverter.java:231)
+	at lombok.ast.ecj.EcjTreeConverter.fillList(EcjTreeConverter.java:277)
+	at lombok.ast.ecj.EcjTreeConverter.fillList(EcjTreeConverter.java:247)
+	at lombok.ast.ecj.EcjTreeConverter.access$100(EcjTreeConverter.java:140)
+	at lombok.ast.ecj.EcjTreeConverter$2.createNormalTypeBody(EcjTreeConverter.java:557)
+	at lombok.ast.ecj.EcjTreeConverter$2.visitTypeDeclaration(EcjTreeConverter.java:480)
+	at lombok.ast.ecj.EcjTreeVisitor.visitEcjNode(EcjTreeVisitor.java:48)
+	at lombok.ast.ecj.EcjTreeConverter.visit(EcjTreeConverter.java:290)
+	at lombok.ast.ecj.EcjTreeConverter.toTree(EcjTreeConverter.java:231)
+	at lombok.ast.ecj.EcjTreeConverter.fillList(EcjTreeConverter.java:277)
+	at lombok.ast.ecj.EcjTreeConverter.fillList(EcjTreeConverter.java:247)
+	at lombok.ast.ecj.EcjTreeConverter.access$100(EcjTreeConverter.java:140)
+	at lombok.ast.ecj.EcjTreeConverter$2.visitCompilationUnitDeclaration(EcjTreeConverter.java:435)
+	at lombok.ast.ecj.EcjTreeVisitor.visitEcjNode(EcjTreeVisitor.java:264)
+	at lombok.ast.ecj.EcjTreeConverter.visit(EcjTreeConverter.java:290)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient$EclipseJavaParser.parseJava(EclipseLintClient.java:1142)
+	at com.android.tools.lint.client.api.JavaVisitor.visitFile(JavaVisitor.java:196)
+	at com.android.tools.lint.client.api.LintDriver.checkIndividualJavaFiles(LintDriver.java:1592)
+	at com.android.tools.lint.client.api.LintDriver.runFileDetectors(LintDriver.java:961)
+	at com.android.tools.lint.client.api.LintDriver.checkProject(LintDriver.java:837)
+	at com.android.tools.lint.client.api.LintDriver.analyze(LintDriver.java:438)
+	at com.android.tools.lint.client.api.LintDriver.analyze(LintDriver.java:361)
+	at com.android.ide.eclipse.adt.internal.lint.LintJob.run(LintJob.java:163)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)

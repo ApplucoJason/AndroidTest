@@ -1,12 +1,15 @@
 package com.itea.myfirstjni;
 
-import android.os.Bundle;
 import android.app.Activity;
+import android.os.Bundle;
 import android.view.Menu;
+import android.widget.TextView;
 
 public class MainActivity extends Activity {
 	
 	public native String getContent();
+	
+	public native int mySummation();
 	
 	static {
 		System.loadLibrary("demolib");
@@ -16,6 +19,16 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		
+		TextView tv = (TextView) findViewById(R.id.textView1);
+		//tv.setText(getContent());	
+		
+		StringBuilder sb = new StringBuilder();
+		sb.append("");
+		sb.append(mySummation());
+		String strI = sb.toString();
+		
+		tv.setText(strI + " " + getContent());
 	}
 
 	@Override

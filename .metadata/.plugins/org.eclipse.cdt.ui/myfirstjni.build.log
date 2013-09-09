@@ -1,0 +1,7 @@
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****

@@ -51,6 +51,9 @@ extern "C" {
 JNIEXPORT jstring JNICALL Java_com_itea_myfirstjni_MainActivity_getContent
   (JNIEnv *, jobject);
 
+JNIEXPORT jstring JNICALL Java_com_itea_myfirstjni_MainActivity_mySummation
+  (JNIEnv *, jobject);
+
 #ifdef __cplusplus
 }
 #endif

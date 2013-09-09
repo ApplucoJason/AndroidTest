@@ -1,0 +1,266 @@
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+"Compile thumb : demolib <= com_itea_myfirstjni_MainActivity.c
+SharedLibrary  : libdemolib.so
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+"Compile thumb : demolib <= com_itea_myfirstjni_MainActivity.c
+jni/com_itea_myfirstjni_MainActivity.c: In function 'Java_com_itea_myfirstjni_MainActivity_mySummation':
+jni/com_itea_myfirstjni_MainActivity.c:16:2: error: too many arguments to function '(*pEnv)->NewStringUTF'
+make: *** [obj/local/armeabi/objs/demolib/com_itea_myfirstjni_MainActivity.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+"Compile thumb : demolib <= com_itea_myfirstjni_MainActivity.c
+jni/com_itea_myfirstjni_MainActivity.c: In function 'Java_com_itea_myfirstjni_MainActivity_mySummation':
+jni/com_itea_myfirstjni_MainActivity.c:16:2: error: too many arguments to function '(*pEnv)->NewStringUTF'
+make: *** [obj/local/armeabi/objs/demolib/com_itea_myfirstjni_MainActivity.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+"Compile thumb : demolib <= com_itea_myfirstjni_MainActivity.c
+jni/com_itea_myfirstjni_MainActivity.c: In function 'Java_com_itea_myfirstjni_MainActivity_mySummation':
+jni/com_itea_myfirstjni_MainActivity.c:16:2: warning: return makes pointer from integer without a cast [enabled by default]
+SharedLibrary  : libdemolib.so
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd clean 
+Clean: demolib [armeabi]
+Clean: stdc++ [armeabi]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+"Compile thumb : demolib <= com_itea_myfirstjni_MainActivity.c
+jni/com_itea_myfirstjni_MainActivity.c: In function 'Java_com_itea_myfirstjni_MainActivity_mySummation':
+jni/com_itea_myfirstjni_MainActivity.c:16:2: warning: return makes pointer from integer without a cast [enabled by default]
+SharedLibrary  : libdemolib.so
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+"Compile thumb : demolib <= com_itea_myfirstjni_MainActivity.c
+jni/com_itea_myfirstjni_MainActivity.c: In function 'Java_com_itea_myfirstjni_MainActivity_mySummation':
+jni/com_itea_myfirstjni_MainActivity.c:16:2: warning: return makes pointer from integer without a cast [enabled by default]
+SharedLibrary  : libdemolib.so
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project myfirstjni ****
+
+C:\AndBiz\android-ndk-r8d-windows\android-ndk-r8d\ndk-build.cmd all 
+Install        : libdemolib.so => libs/armeabi/libdemolib.so
+
+**** Build Finished ****
